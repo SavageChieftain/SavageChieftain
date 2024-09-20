@@ -14,7 +14,7 @@
 
 [![frontend skills](https://skillicons.dev/icons?i=html,css,js,typescript)](https://skillicons.dev)
 
-[![frontend framework](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)
+[![frontend framework](https://skillicons.dev/icons?i=react,next,vue,nuxt)](https://skillicons.dev)
 
 - test
 
