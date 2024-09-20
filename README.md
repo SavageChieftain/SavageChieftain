@@ -1,5 +1,7 @@
 ## SavageChieftain
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SavageChieftain)](https://github.com/SavageChieftain/github-readme-stats)
+
 ### My Skills
 
 - devtools
