@@ -1,7 +1,7 @@
 ## SavageChieftain
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
-[![SavageChieftain's GitHub stats](https://github-readme-stats.vercel.app/api?username=SavageChieftain)](https://github.com/SavageChieftain/github-readme-stats)
+![SavageChieftain's GitHub stats](https://github-readme-stats.vercel.app/api?username=SavageChieftain&show_icons=true)
 
 ### My Skills
 
