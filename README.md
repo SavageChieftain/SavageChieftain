@@ -1,10 +1,11 @@
 ## SavageChieftain
 
-name: Detailed display
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.achievements.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_achievements: yes
-  plugin_achievements_only: sponsor, maintainer, octonaut
+### My Skills
+
+- devtools
+
+[![frontend skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+
+- frontend
+
+[![frontend skills](https://skillicons.dev/icons?i=html,css,js,react,vue,angular)](https://skillicons.dev)
