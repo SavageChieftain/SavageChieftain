@@ -18,5 +18,5 @@
 
 - test
 
-[![test framework](https://skillicons.dev/icons?i=rspec)](https://skillicons.dev)
+[![test framework](https://skillicons.dev/icons?i=vitest,jest)](https://skillicons.dev)
 
